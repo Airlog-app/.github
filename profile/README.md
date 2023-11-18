@@ -1,4 +1,4 @@
-# Welcome to Λirlog's GitHub Repository!
+# Welcome to Airlog's GitHub Repository!
 
 ## About Airlog
 
